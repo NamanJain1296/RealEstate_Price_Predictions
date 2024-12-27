@@ -33,7 +33,6 @@ This project is an end-to-end implementation of a machine learning-powered real 
 
 ### Backend
 - **Python (Flask)**: Lightweight web framework to handle API requests and serve web pages.
-- **Gunicorn**: WSGI server for deploying the app in production.
 
 ### Machine Learning
 - **Scikit-learn**: For implementing regression models.
