@@ -125,16 +125,6 @@ Frontend (HTML/CSS/JS) → Flask Backend → ML Model → API Response → User 
 
 ---
 
-## Screenshots
-
-### Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
-
-### Prediction Results
-![Results](https://via.placeholder.com/800x400?text=Prediction+Results+Screenshot)
-
----
-
 ## Deployment
 
 To deploy this application on a cloud platform:
