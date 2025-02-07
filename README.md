@@ -2,6 +2,8 @@
 
 This project is an end-to-end implementation of a machine learning-powered real estate price prediction system. It provides a user-friendly interface for users to input property details and receive price predictions based on a trained machine learning model. The project demonstrates the seamless integration of data preprocessing, machine learning, and web development technologies.
 
+![Screenshot 2025-02-06 005330](https://github.com/user-attachments/assets/b0e2c296-14bd-4ddf-9fdd-ead10ea8e451)
+
 ---
 
 ## Features
