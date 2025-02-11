@@ -10,6 +10,7 @@ In a city like Bengaluru, one of India’s fastest-growing tech hubs, real estat
 - Machine learning models can improve price accuracy by up to 85% compared to traditional appraisal methods.
   
 This project aims to build a robust real estate price prediction model that can provide accurate, data-driven insights, helping users make informed property decisions.
+
 ![Screenshot 2025-02-06 005330](https://github.com/user-attachments/assets/b0e2c296-14bd-4ddf-9fdd-ead10ea8e451)
 
 ---
