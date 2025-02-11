@@ -1,7 +1,15 @@
 # Real Estate Price Prediction
 
-This project is an end-to-end implementation of a machine learning-powered real estate price prediction system. It provides a user-friendly interface for users to input property details and receive price predictions based on a trained machine learning model. The project demonstrates the seamless integration of data preprocessing, machine learning, and web development technologies.
+## Problem Statement 
+The real estate market is highly volatile, with property prices influenced by multiple factors such as location, size, amenities, and market trends. Traditional valuation methods are often inconsistent and subjective, leading to incorrect pricing decisions for buyers, sellers, and investors.
 
+In a city like Bengaluru, one of India’s fastest-growing tech hubs, real estate prices vary significantly, making accurate price estimation crucial. Studies indicate that:
+
+- Over 60% of home buyers struggle with overpricing due to a lack of transparent valuation tools.
+- The Indian real estate sector is expected to reach $1 trillion by 2030, emphasizing the need for data-driven price predictions.
+- Machine learning models can improve price accuracy by up to 85% compared to traditional appraisal methods.
+  
+This project aims to build a robust real estate price prediction model that can provide accurate, data-driven insights, helping users make informed property decisions.
 ![Screenshot 2025-02-06 005330](https://github.com/user-attachments/assets/b0e2c296-14bd-4ddf-9fdd-ead10ea8e451)
 
 ---
